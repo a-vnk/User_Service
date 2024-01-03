@@ -33,6 +33,8 @@ namespace Service_User.IoC
 
             return services;
         }
+
+        // test pipeline simplon
     }
 }
 
